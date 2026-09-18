@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450">
+  <defs>
+    <linearGradient id="bg3" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ff8800"/>
+      <stop offset="1" stop-color="#f54a45"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="450" fill="url(#bg3)"/>
+  <circle cx="660" cy="110" r="130" fill="#ffffff" opacity="0.08"/>
+  <circle cx="140" cy="360" r="150" fill="#ffffff" opacity="0.06"/>
+  <rect x="230" y="90" width="340" height="270" rx="16" fill="#ffffff" opacity="0.95"/>
+  <rect x="260" y="120" width="120" height="100" rx="10" fill="#ffe9d6"/>
+  <rect x="396" y="120" width="144" height="100" rx="10" fill="#fff1e0"/>
+  <rect x="260" y="236" width="120" height="92" rx="10" fill="#fff1e0"/>
+  <rect x="396" y="236" width="144" height="92" rx="10" fill="#ffe9d6"/>
+  <circle cx="412" cy="170" r="14" fill="#ff8800"/>
+  <rect x="404" y="182" width="16" height="26" rx="8" fill="#ff8800"/>
+  <text x="400" y="408" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="600" fill="#ffffff" opacity="0.9">智能日程 · 日历机器人</text>
+</svg>
