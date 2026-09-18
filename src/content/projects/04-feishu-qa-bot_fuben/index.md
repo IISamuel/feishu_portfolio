@@ -1,6 +1,6 @@
 ---
 title: 飞书副本测试
-slug: feishu-qa-bot
+slug: feishu-qa-bot-copy
 date: 2026-08
 tags: [飞书机器人]
 cover: /assets/projects/01-feishu-qa-bot/cover.svg
